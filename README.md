@@ -1,1 +1,1 @@
-This repository and its history has been merged with my [dotfiles repository](https://github.com/zerowidth/dotfiles).
+This repository and its history have been merged with my [dotfiles repository](https://github.com/zerowidth/dotfiles).
